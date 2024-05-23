@@ -1,52 +1,52 @@
-﻿rgn_abbr,rgn_name,div_abbr,div_name,st_abbr,st_name,st_fips
-R1,Northeast,C1,New England,CT,Connecticut,9
-R1,Northeast,C1,New England,MA,Massachusetts,25
-R1,Northeast,C1,New England,ME,Maine,23
-R1,Northeast,C1,New England,NH,New Hampshire,33
-R1,Northeast,C1,New England,RI,Rhode Island,44
-R1,Northeast,C1,New England,VT,Vermont,50
-R1,Northeast,C2,Middle Atlantic,NJ,New Jersey,34
-R1,Northeast,C2,Middle Atlantic,NY,New York,36
-R1,Northeast,C2,Middle Atlantic,PA,Pennsylvania,42
-R2,Midwest,C3,East North Central,IL,Illinois,17
-R2,Midwest,C3,East North Central,IN,Indiana,18
-R2,Midwest,C3,East North Central,MI,Michigan,26
-R2,Midwest,C3,East North Central,OH,Ohio,39
-R2,Midwest,C3,East North Central,WI,Wisconsin,55
-R2,Midwest,C4,West North Central,IA,Iowa,19
-R2,Midwest,C4,West North Central,KS,Kansas,20
-R2,Midwest,C4,West North Central,MN,Minnesota,27
-R2,Midwest,C4,West North Central,MO,Missouri,29
-R2,Midwest,C4,West North Central,ND,North Dakota,38
-R2,Midwest,C4,West North Central,NE,Nebraska,31
-R2,Midwest,C4,West North Central,SD,South Dakota,46
-R3,South,C2,Middle Atlantic,WV,West Virginia,54
-R3,South,C5,South Atlantic,DC,District of Columbia,11
-R3,South,C5,South Atlantic,DE,Delaware,10
-R3,South,C5,South Atlantic,FL,Florida,12
-R3,South,C5,South Atlantic,GA,Georgia,13
-R3,South,C5,South Atlantic,MD,Maryland,24
-R3,South,C5,South Atlantic,NC,North Carolina,37
-R3,South,C5,South Atlantic,SC,South Carolina,45
-R3,South,C5,South Atlantic,VA,Virginia,51
-R3,South,C6,East South Central,AL,Alabama,1
-R3,South,C6,East South Central,KY,Kentucky,21
-R3,South,C6,East South Central,MS,Mississippi,28
-R3,South,C6,East South Central,TN,Tennessee,47
-R3,South,C7,West South Central,AR,Arkansas,5
-R3,South,C7,West South Central,LA,Louisiana,22
-R3,South,C7,West South Central,OK,Oklahoma,40
-R3,South,C7,West South Central,TX,Texas,48
-R4,West,C8,Mountain,AZ,Arizona,4
-R4,West,C8,Mountain,CO,Colorado,8
-R4,West,C8,Mountain,ID,Idaho,16
-R4,West,C8,Mountain,MT,Montana,30
-R4,West,C8,Mountain,NM,New Mexico,35
-R4,West,C8,Mountain,NV,Nevada,32
-R4,West,C8,Mountain,UT,Utah,49
-R4,West,C8,Mountain,WY,Wyoming,56
-R4,West,C9,Pacific,AK,Alaska,2
-R4,West,C9,Pacific,CA,California,6
-R4,West,C9,Pacific,HI,Hawaii,15
-R4,West,C9,Pacific,OR,Oregon,41
-R4,West,C9,Pacific,WA,Washington,53
+﻿rgn_abbr,rgn_name,rgn_code,div_abbr,div_name,div_code,st_abbr,st_name,st_fips
+R1,Northeast,111100,C1,New England,111110,CT,Connecticut,9
+R1,Northeast,111100,C1,New England,111110,MA,Massachusetts,25
+R1,Northeast,111100,C1,New England,111110,ME,Maine,23
+R1,Northeast,111100,C1,New England,111110,NH,New Hampshire,33
+R1,Northeast,111100,C1,New England,111110,RI,Rhode Island,44
+R1,Northeast,111100,C1,New England,111110,VT,Vermont,50
+R1,Northeast,111100,C2,Middle Atlantic,111120,NJ,New Jersey,34
+R1,Northeast,111100,C2,Middle Atlantic,111120,NY,New York,36
+R1,Northeast,111100,C2,Middle Atlantic,111120,PA,Pennsylvania,42
+R2,Midwest,111200,C3,East North Central,111230,IL,Illinois,17
+R2,Midwest,111200,C3,East North Central,111230,IN,Indiana,18
+R2,Midwest,111200,C3,East North Central,111230,MI,Michigan,26
+R2,Midwest,111200,C3,East North Central,111230,OH,Ohio,39
+R2,Midwest,111200,C3,East North Central,111230,WI,Wisconsin,55
+R2,Midwest,111200,C4,West North Central,111240,IA,Iowa,19
+R2,Midwest,111200,C4,West North Central,111240,KS,Kansas,20
+R2,Midwest,111200,C4,West North Central,111240,MN,Minnesota,27
+R2,Midwest,111200,C4,West North Central,111240,MO,Missouri,29
+R2,Midwest,111200,C4,West North Central,111240,ND,North Dakota,38
+R2,Midwest,111200,C4,West North Central,111240,NE,Nebraska,31
+R2,Midwest,111200,C4,West North Central,111240,SD,South Dakota,46
+R3,South,111300,C5,South Atlantic,111370,WV,West Virginia,54
+R3,South,111300,C5,South Atlantic,111370,DC,District of Columbia,11
+R3,South,111300,C5,South Atlantic,111370,DE,Delaware,10
+R3,South,111300,C5,South Atlantic,111370,FL,Florida,12
+R3,South,111300,C5,South Atlantic,111370,GA,Georgia,13
+R3,South,111300,C5,South Atlantic,111370,MD,Maryland,24
+R3,South,111300,C5,South Atlantic,111370,NC,North Carolina,37
+R3,South,111300,C5,South Atlantic,111370,SC,South Carolina,45
+R3,South,111300,C5,South Atlantic,111370,VA,Virginia,51
+R3,South,111300,C6,East South Central,111360,AL,Alabama,1
+R3,South,111300,C6,East South Central,111360,KY,Kentucky,21
+R3,South,111300,C6,East South Central,111360,MS,Mississippi,28
+R3,South,111300,C6,East South Central,111360,TN,Tennessee,47
+R3,South,111300,C7,West South Central,111350,AR,Arkansas,5
+R3,South,111300,C7,West South Central,111350,LA,Louisiana,22
+R3,South,111300,C7,West South Central,111350,OK,Oklahoma,40
+R3,South,111300,C7,West South Central,111350,TX,Texas,48
+R4,West,111400,C8,Mountain,111480,AZ,Arizona,4
+R4,West,111400,C8,Mountain,111480,CO,Colorado,8
+R4,West,111400,C8,Mountain,111480,ID,Idaho,16
+R4,West,111400,C8,Mountain,111480,MT,Montana,30
+R4,West,111400,C8,Mountain,111480,NM,New Mexico,35
+R4,West,111400,C8,Mountain,111480,NV,Nevada,32
+R4,West,111400,C8,Mountain,111480,UT,Utah,49
+R4,West,111400,C8,Mountain,111480,WY,Wyoming,56
+R4,West,111400,C9,Pacific,111490,AK,Alaska,2
+R4,West,111400,C9,Pacific,111490,CA,California,6
+R4,West,111400,C9,Pacific,111490,HI,Hawaii,15
+R4,West,111400,C9,Pacific,111490,OR,Oregon,41
+R4,West,111400,C9,Pacific,111490,WA,Washington,53
