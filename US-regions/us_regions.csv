@@ -1,0 +1,52 @@
+﻿rgn_abbr,rgn_name,div_abbr,div_name,st_abbr,st_name,st_fips
+R1,Northeast,C1,New England,CT,Connecticut,9
+R1,Northeast,C1,New England,MA,Massachusetts,25
+R1,Northeast,C1,New England,ME,Maine,23
+R1,Northeast,C1,New England,NH,New Hampshire,33
+R1,Northeast,C1,New England,RI,Rhode Island,44
+R1,Northeast,C1,New England,VT,Vermont,50
+R1,Northeast,C2,Middle Atlantic,NJ,New Jersey,34
+R1,Northeast,C2,Middle Atlantic,NY,New York,36
+R1,Northeast,C2,Middle Atlantic,PA,Pennsylvania,42
+R2,Midwest,C3,East North Central,IL,Illinois,17
+R2,Midwest,C3,East North Central,IN,Indiana,18
+R2,Midwest,C3,East North Central,MI,Michigan,26
+R2,Midwest,C3,East North Central,OH,Ohio,39
+R2,Midwest,C3,East North Central,WI,Wisconsin,55
+R2,Midwest,C4,West North Central,IA,Iowa,19
+R2,Midwest,C4,West North Central,KS,Kansas,20
+R2,Midwest,C4,West North Central,MN,Minnesota,27
+R2,Midwest,C4,West North Central,MO,Missouri,29
+R2,Midwest,C4,West North Central,ND,North Dakota,38
+R2,Midwest,C4,West North Central,NE,Nebraska,31
+R2,Midwest,C4,West North Central,SD,South Dakota,46
+R3,South,C2,Middle Atlantic,WV,West Virginia,54
+R3,South,C5,South Atlantic,DC,District of Columbia,11
+R3,South,C5,South Atlantic,DE,Delaware,10
+R3,South,C5,South Atlantic,FL,Florida,12
+R3,South,C5,South Atlantic,GA,Georgia,13
+R3,South,C5,South Atlantic,MD,Maryland,24
+R3,South,C5,South Atlantic,NC,North Carolina,37
+R3,South,C5,South Atlantic,SC,South Carolina,45
+R3,South,C5,South Atlantic,VA,Virginia,51
+R3,South,C6,East South Central,AL,Alabama,1
+R3,South,C6,East South Central,KY,Kentucky,21
+R3,South,C6,East South Central,MS,Mississippi,28
+R3,South,C6,East South Central,TN,Tennessee,47
+R3,South,C7,West South Central,AR,Arkansas,5
+R3,South,C7,West South Central,LA,Louisiana,22
+R3,South,C7,West South Central,OK,Oklahoma,40
+R3,South,C7,West South Central,TX,Texas,48
+R4,West,C8,Mountain,AZ,Arizona,4
+R4,West,C8,Mountain,CO,Colorado,8
+R4,West,C8,Mountain,ID,Idaho,16
+R4,West,C8,Mountain,MT,Montana,30
+R4,West,C8,Mountain,NM,New Mexico,35
+R4,West,C8,Mountain,NV,Nevada,32
+R4,West,C8,Mountain,UT,Utah,49
+R4,West,C8,Mountain,WY,Wyoming,56
+R4,West,C9,Pacific,AK,Alaska,2
+R4,West,C9,Pacific,CA,California,6
+R4,West,C9,Pacific,HI,Hawaii,15
+R4,West,C9,Pacific,OR,Oregon,41
+R4,West,C9,Pacific,WA,Washington,53
