@@ -1,5 +1,4 @@
 ﻿ct_cd,ct_abbr,ct_name
-1000,AL,Alabama
 1001,ALAU,Autauga County AL
 1003,ALBA,Baldwin County AL
 1005,ALBR,Barbour County AL
@@ -67,7 +66,6 @@
 1129,ALWS,Washington County AL
 1131,ALWI,Wilcox County AL
 1133,ALWN,Winston County AL
-2000,AK,Alaska
 2013,AKEB,Aleutians East Borough County AK
 2016,AKWC,Aleutians West Census Area County AK
 2020,AKAN,Anchorage Borough County AK
@@ -103,7 +101,6 @@
 2280,AKWR,Wrangell-Petersburg County AK
 2282,AKYK,Yakutat Borough County AK
 2290,AKYU,Yukon-Koyukuk Census Area County AK
-4000,AZ,Arizona
 4001,AZAP,Apache County AZ
 4003,AZCO,Cochise County AZ
 4005,AZCC,Coconino County AZ
@@ -119,7 +116,6 @@
 4023,AZSA,Santa Cruz County AZ
 4025,AZYA,Yavapai County AZ
 4027,AZYU,Yuma County AZ
-5000,AR,Arkansas
 5001,ARAR,Arkansas County AR
 5003,ARAS,Ashley County AR
 5005,ARBA,Baxter County AR
@@ -195,7 +191,6 @@
 5145,ARWH,White County AR
 5147,ARWO,Woodruff County AR
 5149,ARYE,Yell County AR
-6000,CA,California
 6001,CAAL,Alameda County CA
 6003,CAAP,Alpine County CA
 6005,CAAM,Amador County CA
@@ -254,7 +249,6 @@
 6111,CAVE,Ventura County CA
 6113,CAYO,Yolo County CA
 6115,CAYU,Yuba County CA
-8000,CO,Colorado
 8001,COAD,Adams County CO
 8003,COAL,Alamosa County CO
 8005,COAR,Arapahoe County CO
@@ -319,7 +313,6 @@
 8121,COWA,Washington County CO
 8123,COWE,Weld County CO
 8125,COYU,Yuma County CO
-9000,CT,Connecticut
 9001,CTFA,Fairfield County CT
 9003,CTHA,Hartford County CT
 9005,CTLI,Litchfield County CT
@@ -328,13 +321,10 @@
 9011,CTNW,New London County CT
 9013,CTTO,Tolland County CT
 9015,CTWI,Windham County CT
-10000,DE,Delaware
 10001,DEKE,Kent County DE
 10003,DENE,New Castle County DE
 10005,DESU,Sussex County DE
-11000,DC,District of Columbia
 11001,DCDI,District of Columbia County DC
-12000,FL,Florida
 12001,FLAL,Alachua County FL
 12003,FLBA,Baker County FL
 12005,FLBY,Bay County FL
@@ -402,7 +392,6 @@
 12129,FLWA,Wakulla County FL
 12131,FLWL,Walton County FL
 12133,FLWS,Washington County FL
-13000,GA,Georgia
 13001,GAAP,Appling County GA
 13003,GAAT,Atkinson County GA
 13005,GABA,Bacon County GA
@@ -562,14 +551,12 @@
 13317,GAWK,Wilkes County GA
 13319,GAWN,Wilkinson County GA
 13321,GAWO,Worth County GA
-15000,HI,Hawaii
 15001,HIHA,Hawaii County HI
 15003,HIHO,Honolulu County HI
 15005,HIKL,Kalawao County HI
 15007,HIKA,Kauai County HI
 15009,HIMU,Maui County HI
 15901,HIMA,"Maui + Kalawao County, HI"
-16000,ID,Idaho
 16001,IDAD,Ada County ID
 16003,IDAA,Adams County ID
 16005,IDBA,Bannock County ID
@@ -614,7 +601,6 @@
 16083,IDTW,Twin Falls County ID
 16085,IDVA,Valley County ID
 16087,IDWA,Washington County ID
-17000,IL,Illinois
 17001,ILAD,Adams County IL
 17003,ILAL,Alexander County IL
 17005,ILBO,Bond County IL
@@ -717,7 +703,6 @@
 17199,ILWM,Williamson County IL
 17201,ILWN,Winnebago County IL
 17203,ILWO,Woodford County IL
-18000,IN,Indiana
 18001,INAD,Adams County IN
 18003,INAL,Allen County IN
 18005,INBA,Bartholomew County IN
@@ -810,7 +795,6 @@
 18179,INWE,Wells County IN
 18181,INWH,White County IN
 18183,INWT,Whitley County IN
-19000,IA,Iowa
 19001,IAAD,Adair County IA
 19003,IAAA,Adams County IA
 19005,IAAL,Allamakee County IA
@@ -910,7 +894,6 @@
 19193,IAWO,Woodbury County IA
 19195,IAWT,Worth County IA
 19197,IAWG,Wright County IA
-20000,KS,Kansas
 20001,KSAL,Allen County KS
 20003,KSAN,Anderson County KS
 20005,KSAT,Atchison County KS
@@ -1016,7 +999,6 @@
 20205,KSWO,Wilson County KS
 20207,KSWD,Woodson County KS
 20209,KSWY,Wyandotte County KS
-21000,KY,Kentucky
 21001,KYAD,Adair County KY
 21003,KYAL,Allen County KY
 21005,KYAN,Anderson County KY
@@ -1137,7 +1119,6 @@
 21235,KYWH,Whitley County KY
 21237,KYWO,Wolfe County KY
 21239,KYWD,Woodford County KY
-22000,LA,Louisiana
 22001,LAAC,Acadia County LA
 22003,LAAL,Allen County LA
 22005,LAAS,Ascension County LA
@@ -1202,7 +1183,6 @@
 22123,LAWT,West Carroll County LA
 22125,LAWF,West Feliciana County LA
 22127,LAWI,Winn County LA
-23000,ME,Maine
 23001,MEAN,Androscoggin County ME
 23003,MEAR,Aroostook County ME
 23005,MECU,Cumberland County ME
@@ -1219,7 +1199,6 @@
 23027,MEWA,Waldo County ME
 23029,MEWS,Washington County ME
 23031,MEYO,York County ME
-24000,MD,Maryland
 24001,MDAL,Allegany County MD
 24003,MDAN,Anne Arundel County MD
 24005,MDBA,Baltimore County MD
@@ -1244,7 +1223,6 @@
 24045,MDWI,Wicomico County MD
 24047,MDWO,Worcester County MD
 24510,MDBL,Baltimore (Indep. City) County MD
-25000,MA,Massachusetts
 25001,MABA,Barnstable County MA
 25003,MABE,Berkshire County MA
 25005,MABR,Bristol County MA
@@ -1259,7 +1237,6 @@
 25023,MAPL,Plymouth County MA
 25025,MASU,Suffolk County MA
 25027,MAWO,Worcester County MA
-26000,MI,Michigan
 26001,MIAL,Alcona County MI
 26003,MIAG,Alger County MI
 26005,MIAE,Allegan County MI
@@ -1343,7 +1320,6 @@
 26161,MIWA,Washtenaw County MI
 26163,MIWY,Wayne County MI
 26165,MIWE,Wexford County MI
-27000,MN,Minnesota
 27001,MNAI,Aitkin County MN
 27003,MNAN,Anoka County MN
 27005,MNBE,Becker County MN
@@ -1431,7 +1407,6 @@
 27169,MNWN,Winona County MN
 27171,MNWR,Wright County MN
 27173,MNYE,Yellow Medicine County MN
-28000,MS,Mississippi
 28001,MSAD,Adams County MS
 28003,MSAL,Alcorn County MS
 28005,MSAM,Amite County MS
@@ -1514,7 +1489,6 @@
 28159,MSWN,Winston County MS
 28161,MSYA,Yalobusha County MS
 28163,MSYZ,Yazoo County MS
-29000,MO,Missouri
 29001,MOAD,Adair County MO
 29003,MOAN,Andrew County MO
 29005,MOAT,Atchison County MO
@@ -1630,7 +1604,6 @@
 29227,MOWO,Worth County MO
 29229,MOWR,Wright County MO
 29510,MOSS,St. Louis (Indep. City) County MO
-30000,MT,Montana
 30001,MTBE,Beaverhead County MT
 30003,MTBI,Big Horn County MT
 30005,MTBL,Blaine County MT
@@ -1687,7 +1660,6 @@
 30107,MTWH,Wheatland County MT
 30109,MTWI,Wibaux County MT
 30111,MTYE,Yellowstone County MT
-31000,NE,Nebraska
 31001,NEAD,Adams County NE
 31003,NEAN,Antelope County NE
 31005,NEAR,Arthur County NE
@@ -1781,7 +1753,6 @@
 31181,NEWE,Webster County NE
 31183,NEWH,Wheeler County NE
 31185,NEYO,York County NE
-32000,NV,Nevada
 32001,NVCH,Churchill County NV
 32003,NVCL,Clark County NV
 32005,NVDO,Douglas County NV
@@ -1799,7 +1770,6 @@
 32031,NVWA,Washoe County NV
 32033,NVWH,White Pine County NV
 32510,NVCA,Carson City (Indep. City) Cnty NV
-33000,NH,New Hampshire
 33001,NHBE,Belknap County NH
 33003,NHCA,Carroll County NH
 33005,NHCH,Cheshire County NH
@@ -1810,7 +1780,6 @@
 33015,NHRO,Rockingham County NH
 33017,NHST,Strafford County NH
 33019,NHSU,Sullivan County NH
-34000,NJ,New Jersey
 34001,NJAT,Atlantic County NJ
 34003,NJBE,Bergen County NJ
 34005,NJBU,Burlington County NJ
@@ -1832,7 +1801,6 @@
 34037,NJSU,Sussex County NJ
 34039,NJUN,Union County NJ
 34041,NJWA,Warren County NJ
-35000,NM,New Mexico
 35001,NMBE,Bernalillo County NM
 35003,NMCA,Catron County NM
 35005,NMCH,Chaves County NM
@@ -1866,7 +1834,6 @@
 35057,NMTO,Torrance County NM
 35059,NMUN,Union County NM
 35061,NMVA,Valencia County NM
-36000,NY,New York
 36001,NYAL,Albany County NY
 36003,NYAE,Allegany County NY
 36005,NYBR,Bronx County NY
@@ -1929,7 +1896,6 @@
 36119,NYWE,Westchester County NY
 36121,NYWO,Wyoming County NY
 36123,NYYA,Yates County NY
-37000,NC,North Carolina
 37001,NCAL,Alamance County NC
 37003,NCAE,Alexander County NC
 37005,NCAG,Alleghany County NC
@@ -2030,7 +1996,6 @@
 37195,NCWL,Wilson County NC
 37197,NCYA,Yadkin County NC
 37199,NCYN,Yancey County NC
-38000,ND,North Dakota
 38001,NDAD,Adams County ND
 38003,NDBA,Barnes County ND
 38005,NDBE,Benson County ND
@@ -2084,7 +2049,6 @@
 38101,NDWR,Ward County ND
 38103,NDWE,Wells County ND
 38105,NDWI,Williams County ND
-39000,OH,Ohio
 39001,OHAD,Adams County OH
 39003,OHAL,Allen County OH
 39005,OHAS,Ashland County OH
@@ -2173,7 +2137,6 @@
 39171,OHWI,Williams County OH
 39173,OHWO,Wood County OH
 39175,OHWN,Wyandot County OH
-40000,OK,Oklahoma
 40001,OKAD,Adair County OK
 40003,OKAL,Alfalfa County OK
 40005,OKAT,Atoka County OK
@@ -2251,7 +2214,6 @@
 40149,OKWH,Washita County OK
 40151,OKWO,Woods County OK
 40153,OKWD,Woodward County OK
-41000,OR,Oregon
 41001,ORBA,Baker County OR
 41003,ORBE,Benton County OR
 41005,ORCL,Clackamas County OR
@@ -2288,7 +2250,6 @@
 41067,ORWH,Washington County OR
 41069,ORWE,Wheeler County OR
 41071,ORYA,Yamhill County OR
-42000,PA,Pennsylvania
 42001,PAAD,Adams County PA
 42003,PAAL,Allegheny County PA
 42005,PAAR,Armstrong County PA
@@ -2356,13 +2317,11 @@
 42129,PAWE,Westmoreland County PA
 42131,PAWO,Wyoming County PA
 42133,PAYO,York County PA
-44000,RI,Rhode Island
 44001,RIBR,Bristol County RI
 44003,RIKE,Kent County RI
 44005,RINE,Newport County RI
 44007,RIPR,Providence County RI
 44009,RIWA,Washington County RI
-45000,SC,South Carolina
 45001,SCAB,Abbeville County SC
 45003,SCAI,Aiken County SC
 45005,SCAL,Allendale County SC
@@ -2409,7 +2368,6 @@
 45087,SCUN,Union County SC
 45089,SCWI,Williamsburg County SC
 45091,SCYO,York County SC
-46000,SD,South Dakota
 46003,SDAU,Aurora County SD
 46005,SDBE,Beadle County SD
 46007,SDBN,Bennett County SD
@@ -2477,7 +2435,6 @@
 46129,SDWA,Walworth County SD
 46135,SDYA,Yankton County SD
 46137,SDZI,Ziebach County SD
-47000,TN,Tennessee
 47001,TNAN,Anderson County TN
 47003,TNBE,Bedford County TN
 47005,TNBN,Benton County TN
@@ -2573,7 +2530,6 @@
 47185,TNWH,White County TN
 47187,TNWI,Williamson County TN
 47189,TNWL,Wilson County TN
-48000,TX,Texas
 48001,TXAN,Anderson County TX
 48003,TXAD,Andrews County TX
 48005,TXAG,Angelina County TX
@@ -2828,7 +2784,6 @@
 48503,TXYU,Young County TX
 48505,TXZA,Zapata County TX
 48507,TXZV,Zavala County TX
-49000,UT,Utah
 49001,UTBE,Beaver County UT
 49003,UTBO,Box Elder County UT
 49005,UTCA,Cache County UT
@@ -2858,7 +2813,6 @@
 49053,UTWS,Washington County UT
 49055,UTWY,Wayne County UT
 49057,UTWE,Weber County UT
-50000,VT,Vermont
 50001,VTAD,Addison County VT
 50003,VTBE,Bennington County VT
 50005,VTCA,Caledonia County VT
@@ -2873,7 +2827,6 @@
 50023,VTWA,Washington County VT
 50025,VTWI,Windham County VT
 50027,VTWN,Windsor County VT
-51000,VA,Virginia
 51001,VAAC,Accomack County VA
 51003,VAAA,Albemarle County VA
 51005,VAAD,Alleghany County VA
@@ -3009,7 +2962,6 @@
 51820,VAWO,Waynesboro County VA
 51830,VAWL,Williamsburg County VA
 51840,VAWC,Winchester County VA
-53000,WA,Washington
 53001,WAAD,Adams County WA
 53003,WAAS,Asotin County WA
 53005,WABE,Benton County WA
@@ -3073,7 +3025,6 @@
 51953,VAWS,"Washington + Bristol County, VA"
 51958,VAYO,"York + Poquoson County, VA"
 51925,VAHL,"Halifax + South Boston County, VA"
-54000,WV,West Virginia
 54001,WVBA,Barbour County WV
 54003,WVBE,Berkeley County WV
 54005,WVBO,Boone County WV
@@ -3129,7 +3080,6 @@
 54105,WVWI,Wirt County WV
 54107,WVWO,Wood County WV
 54109,WVWY,Wyoming County WV
-55000,WI,Wisconsin
 55001,WIAD,Adams County WI
 55003,WIAS,Ashland County WI
 55005,WIBA,Barron County WI
@@ -3202,7 +3152,6 @@
 55137,WIWR,Waushara County WI
 55139,WIWI,Winnebago County WI
 55141,WIWO,Wood County WI
-56000,WY,Wyoming
 56001,WYAL,Albany County WY
 56003,WYBI,Big Horn County WY
 56005,WYCA,Campbell County WY
